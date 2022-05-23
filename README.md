@@ -1,6 +1,6 @@
-meu nome @mi
-meu dia a dia e faze nada
-amo dormi
+ meu nome @mi 
+ meu dia a dia e faze nada
+ amo dormi
 
 
 
@@ -10,9 +10,4 @@ amo dormi
 mi0707/mi0707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-​
-4
-​
-5
-​
-6
+
