@@ -1,6 +1,10 @@
- meu nome @mi 
- meu dia a dia e faze nada
- amo dormi
+🖤 meu nome @mi 
+ 
+ 
+🖤 meu dia a dia e faze nada
+ 
+ 
+ 🖤amo dormi
 
 
 
